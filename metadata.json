@@ -2,7 +2,7 @@
   "$type": "Comindware.Platform.Contracts.TransferMetadata, Comindware.Platform.Contracts",
   "Name": "GitBp",
   "Alias": "GitBp",
-  "ExportDate": "2021-07-27T13:49:14.8689943+03:00",
+  "ExportDate": "2021-07-27T13:52:45.214682+03:00",
   "Database": "ab517296-bfa5-4044-8789-95b37f991e55",
   "Server": "http://localhost/",
   "Version": "3.6.9999.0",
